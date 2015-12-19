@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Hoth Radar</string>
+    <string name="onClickBuild">onClickBuild</string>
+    <string name="onClickStart">onClickStart</string>
 </resources>
